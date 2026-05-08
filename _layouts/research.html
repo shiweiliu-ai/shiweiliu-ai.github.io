@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="research-wrapper">
+
+  <!-- ⭐ Back to Research -->
+  <a href="{{ '/research/' | relative_url }}"
+     style="
+       display:inline-block;
+       margin:20px 0 30px 0;
+       padding:6px 12px;
+       font-size:14px;
+       color:#2b6cb0;
+       text-decoration:none;
+       border:1px solid #2b6cb0;
+       border-radius:6px;
+     ">
+    ← Back to Research
+  </a>
+
+  <article class="research-post">
+
+    <h1 class="research-post-title">
+      {{ page.title }}
+    </h1>
+
+    <div class="research-meta">
+
+      {% if page.category %}
+      <span class="research-category">
+        {{ page.category }}
+      </span>
+      {% endif %}
+
+    </div>
+
+    <div class="research-post-content">
+      {{ content }}
+    </div>
+
+  </article>
+
+</div>

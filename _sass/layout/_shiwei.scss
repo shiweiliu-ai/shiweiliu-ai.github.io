@@ -1,0 +1,55 @@
+.masthead {
+  border-bottom: 1px solid var(--global-border-color);
+  box-shadow: none;
+}
+
+.greedy-nav {
+  background: var(--global-bg-color);
+}
+
+.greedy-nav a,
+.visible-links a {
+  letter-spacing: 0;
+}
+
+.page__title {
+  margin-bottom: 0.7em;
+}
+
+.page__content {
+  font-size: 0.95em;
+  line-height: 1.72;
+}
+
+.page__content h1,
+.page__content h2 {
+  margin-top: 1.45em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.page__content h2 {
+  font-size: 1.28em;
+}
+
+.page__content strong {
+  color: var(--global-text-color);
+}
+
+.author__avatar img {
+  border-radius: 6px;
+  box-shadow: 0 1px 6px rgba(20, 31, 43, 0.12);
+}
+
+.author__name {
+  margin-top: 0.8em;
+  font-size: 1.08em;
+}
+
+.author__bio {
+  color: var(--global-text-color);
+}
+
+.btn {
+  border-radius: 4px;
+}
