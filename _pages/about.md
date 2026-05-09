@@ -76,19 +76,8 @@ We are looking for undergrad/master/Ph.D students with background of EE/CS, espe
 - Address 1: 4800 Cao'an Road, Zhixin Building, Jiading District, Shanghai, China, 201804.
 - Address 2: 2005 Songhu Road, Cross Building 1, Yangpu District, Shanghai, China, 200438.
 
-<div style="text-align:center; margin-top:40px;">
-
-  <a href="https://clustrmaps.com/site/1c9yj" title="Visit tracker">
-
-    <img src="https://clustrmaps.com/map_v2.png?cl=080808&w=a&t=tt&d=5LRlEu-6FGkro4IPNLbBKWEKEGt9T8wVdRN3tS1P_OI&co=ffffff&ct=808080"
-         style="
-           width:100%;
-           max-width:1400px;
-           height:auto;
-           display:block;
-           margin:0 auto;
-         ">
-
-  </a>
-
+<div id="clustrmaps-container" style="width:100%; max-width:600px;">
+<script type='text/javascript' id='clustrmaps'
+src='https://cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=m&d=5LRlEu-6FGkro4IPNLbBKWEKEGt9T8wVdRN3tS1P_OI&co=ffffff&ct=808080&cmo=54a418&cmn=ff5353'>
+</script>
 </div>
