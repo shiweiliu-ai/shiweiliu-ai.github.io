@@ -78,8 +78,6 @@ We are looking for undergrad/master/Ph.D students with background of EE/CS, espe
 
 <div style="display:flex; justify-content:center; margin:30px 0;">
   <div style="width:100%; max-width:700px;">
-    <script type='text/javascript' id='clustrmaps'
-    src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=800&t=n&d=5LRlEu-6FGkro4IPNLbBKWEKEGt9T8wVdRN3tS1P_OI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'>
-    </script>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=800&t=tt&d=5LRlEu-6FGkro4IPNLbBKWEKEGt9T8wVdRN3tS1P_OI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
   </div>
 </div>
