@@ -24,7 +24,7 @@ Research Interests
 
 News
 ======
-
+* **05/13/2026** I was selected as a Session Co-Chair for “Quantization, Approximation, and Compression for ML Hardware I” at the ISCAS 2026 in Shanghai.
 * **05/01/2026** I have joined Tongji University as an Assistant Professor. **A new journey begins!**
 * **04/22/2026** A multi-core TPU processor "An 11.16 μJ/token Edge SLM Decoder Accelerator with Scalable Ring-based Configuration for Token-level Pipelining in 16nm FinFET" was accepted and presented at IEEE CICC 2026.
 * **04/03/2026** An spike sorting processor "A 1024-Ch 583-nW/Ch Spike-Sorting SoC With Sparsity-Aware Spike Detection Scratchpad and Ultra-Low-Leakage Dual-Voltage 5T-SRAM for 16K-Template Clustering" get accepted by TCAS-I.
