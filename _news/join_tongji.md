@@ -3,6 +3,7 @@ title: "Joining Tongji University as an Assistant Professor"
 date: 2026-05-01
 layout: news
 category: News
+image: /images/news/tongji/tongji.jpg
 ---
 
 I have joined Tongji University as an Assistant Professor in the Department of Electronic and Information Engineering.

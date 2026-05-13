@@ -3,7 +3,7 @@ title: "Session Co-Chair in ISCAS2026"
 date: 2026-05-13
 layout: news
 category: News
-image: /images/talk/iscas2026/iscas.jpg
+image: /images/news/iscas2026/iscas.jpg
 ---
 
 I was honored to serve as a Session Co-Chair for **Quantization, Approximation, and Compression for ML Hardware I** at the IEEE International Symposium on Circuits and Systems 2026 in Shanghai.
